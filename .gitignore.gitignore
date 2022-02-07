@@ -1,0 +1,15 @@
+.DS_store
+.ipynb_checkpoints
+*.txt
+*.png
+*.jpg
+*.xlsx
+*.csv
+*.ply
+*.pkl
+*.pickle
+.idea
+
+models/regression
+models/segmentation
+
