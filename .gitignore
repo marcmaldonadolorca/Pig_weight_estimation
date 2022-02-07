@@ -10,6 +10,6 @@
 *.pickle
 .idea
 
-models/regression
-models/segmentation
+models/regression/
+models/segmentation/
 
