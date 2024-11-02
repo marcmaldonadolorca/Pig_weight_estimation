@@ -2,19 +2,10 @@
 
 This project is part of a **Final Degree Project (TFG)** in **Computer Engineering** at the **Autonomous University of Barcelona (UAB)**. The main objective is to develop a reliable model to estimate the weight of pigs using machine learning, contributing to the field of **Smart Farming**. The project is powered by **computer vision techniques** and **deep learning**, utilizing depth images of pigs and regression models.
 
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Technologies Used](#technologies-used)
-3. [Methodology](#methodology)
-4. [Setup and Installation](#setup-and-installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
-
 ## Project Overview
 The project addresses the challenge of estimating pig weights automatically, which is crucial for maximizing farm efficiency and ensuring that pigs meet the optimal weight of 120kg before being sent to slaughterhouses. The project integrates a 3D camera system with traditional scales to collect depth images and weight data. These data are then processed using **Convolutional Neural Networks (CNNs)** to develop a predictive model.
+
+You can find the paper int his path reports/informe_final/informe_final.pdf
 
 ## Technologies Used
 - **Python**: Core programming language.
