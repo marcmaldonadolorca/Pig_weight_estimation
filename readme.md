@@ -5,7 +5,7 @@ This project is part of a **Final Degree Project (TFG)** in **Computer Engineeri
 ## Project Overview
 The project addresses the challenge of estimating pig weights automatically, which is crucial for maximizing farm efficiency and ensuring that pigs meet the optimal weight of 120kg before being sent to slaughterhouses. The project integrates a 3D camera system with traditional scales to collect depth images and weight data. These data are then processed using **Convolutional Neural Networks (CNNs)** to develop a predictive model.
 
-You can find the paper int his path reports/informe_final/informe_final.pdf
+You can find the paper following this path reports/informe_final/informe_final.pdf
 
 ## Technologies Used
 - **Python**: Core programming language.
