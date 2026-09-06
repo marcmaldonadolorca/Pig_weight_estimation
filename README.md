@@ -50,3 +50,9 @@ Farm dataset is **not redistributable** (commercial provenance), so the repo is
 code + reports only. Validation is a single split (no cross-validation — noted
 in the report), and the 2021-era dependencies in `requirements.txt` reflect the
 project's date.
+
+## License
+
+Code released under the [MIT License](LICENSE). Note: the licence covers the **code**
+only. The depth-image dataset comes from a commercial farm, is not redistributable and
+is not part of this repository.

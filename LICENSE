@@ -19,9 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Nota: esta licencia cubre el CÓDIGO de este repositorio. El dataset de imágenes de
-profundidad procede de una granja comercial y no es redistribuible; no forma parte
-de este repositorio ni queda cubierto por esta licencia.
