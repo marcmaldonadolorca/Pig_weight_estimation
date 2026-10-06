@@ -6,6 +6,12 @@ data for a smart-farming use case: pigs should reach slaughter weight (~120 kg)
 as precisely as possible, and weighing them by hand is slow and stressful for
 the animals.
 
+![From an overhead depth frame to a 3D surface: YOLOv5 detection, U-Net segmentation, Open3D point cloud and Poisson mesh](docs/img/pipeline.png)
+
+*The full pipeline on one real animal: the farm's overhead infrared frame, the segmented
+silhouette, the depth-coloured point cloud and the reconstructed surface the weight is
+regressed from.*
+
 ## Results
 
 | Stage | Metric | Value |
