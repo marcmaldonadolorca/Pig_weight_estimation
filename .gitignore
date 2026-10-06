@@ -13,3 +13,6 @@
 models/regression/
 models/segmentation/
 
+
+# README figures are generated from reports/ and are safe to track
+!docs/img/*.png
